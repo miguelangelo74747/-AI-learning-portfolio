@@ -1,0 +1,4 @@
+# Scripts de tools/ (Python 3.9 o superior)
+numpy>=1.22
+matplotlib>=3.5
+pyserial>=3.5

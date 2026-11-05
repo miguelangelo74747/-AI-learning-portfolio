@@ -1,0 +1,13 @@
+# PlatformIO
+.pio/
+.vscode/
+# Logs y figuras generados al probar (guardad en git solo los que vayáis a entregar)
+logs/
+platformio-device-monitor-*.log
+# Python
+__pycache__/
+*.pyc
+.venv/
+# Simulador compilado
+sim_log
+sim_log.exe
